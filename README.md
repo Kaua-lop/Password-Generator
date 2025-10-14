@@ -1,32 +1,34 @@
-# 🔐 Gerador de Senha
+#🔐 Password Generator
 
-Um gerador de senha simples e personalizável feito com **HTML** e **JavaScript**. Permite que você defina o comprimento da senha, escolha se deseja incluir **letras maiúsculas**, **números** e **símbolos**, gerando senhas seguras de forma rápida e prática.
+A simple and customizable password generator built with HTML and JavaScript. It allows you to set the password length, choose whether to include uppercase letters, numbers, and symbols, and quickly generate secure passwords in a practical way.
 
-👉 Acesse o gerador online: [https://kaua-lop.github.io/Gerador-de-senha/](https://kaua-lop.github.io/Gerador-de-senha/)
+👉 Access the online generator: https://kaua-lop.github.io/Gerador-de-senha/
 
-## 🚀 Funcionalidades
+##🚀 Features
 
-- Escolha do **tamanho da senha**
-- Inclusão opcional de:
-  - Letras **maiúsculas**
-  - **Números**
-  - **Símbolos**
-- Geração instantânea de senha
-- Interface simples e intuitiva
+- Choose the **password length**
+- Optional inclusion of:
+	- Uppercase letters
+	- Numbers
+	- Symbols
+- Instant password generation
+- Simple and intuitive interface
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Technologies Used
 
 - HTML5
+
 - CSS3
+
 - JavaScript
 
 ## 📷 Preview
 
-![Preview do Gerador de Senha](Preview.jpg) <!-- Adicione um print do projeto com esse nome ou atualize o link -->
+![Preview do Gerador de Senha](Preview.jpg)
 
-## 📦 Como usar
 
-Você pode utilizar diretamente pela web:
+📦 How to Use
 
+You can use it directly on the web:
 ```bash
 https://kaua-lop.github.io/Gerador-de-senha/
