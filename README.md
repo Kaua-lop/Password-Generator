@@ -1,3 +1,4 @@
+```
 #🔐 Password Generator
 
 A simple and customizable password generator built with HTML and JavaScript. It allows you to set the password length, choose whether to include uppercase letters, numbers, and symbols, and quickly generate secure passwords in a practical way.
